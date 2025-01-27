@@ -1,1 +1,1 @@
-# Heart-Decease-ML-Project
+# Heart-Decease-Prediction-ML-Project
